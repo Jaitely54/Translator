@@ -31,3 +31,14 @@ You can install the required packages using pip:
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub.
 
+## License
+
+This project is licensed under the GNU General Public License v3.0 
+### About the GNU General Public License (GPL)
+
+The GNU General Public License (GPL) is a free, copyleft license for software and other kinds of works, which means that it permits the modification and redistribution of the software under the same license. The GPL license guarantees end users the freedom to run, study, share, and modify the software.
+
+By using the GPL for this project, we ensure that all modifications and derivative works are also free and open source. If you distribute copies of or modifications to the project's source code, they must also be under the GPL or a compatible license.
+
+For more information, please visit [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
